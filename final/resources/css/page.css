@@ -1,0 +1,39 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+html {
+    background-color: black;
+}
+
+h1, h2 {
+    color: #33C9FF;
+}
+
+.title {
+    height: 40px;
+    margin-top: 10px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+}
+
+img {
+    max-width:30%;
+    height:auto;
+    margin: 30px auto;
+}
+
+p,
+li {
+    font-size: 18px;
+    display: table;
+    margin:0px auto 0px auto;
+    list-style-type: disc;
+}
+
+a{
+    text-decoration: underline;
+    color: #C700FF;
+}
